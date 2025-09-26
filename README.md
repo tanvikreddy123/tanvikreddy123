@@ -11,7 +11,11 @@
 
 - [**Nutrimate FoodRx HealthBot**](https://github.com/tanvikreddy123/nutrimate-foodrx-healthbot) – *IEEE Published*  
   Flutter · Node.js · MongoDB Atlas · Dialogflow CX  
-  > AI-powered chatbot for chronic condition nutrition guidance.  
+  > AI-powered chatbot for chronic condition nutrition guidance.
+
+- [**ClinicFlow**](https://github.com/tanvikreddy123/clinicflow)  
+  React Native · Node.js/Express · MongoDB · Dialogflow CX  
+  > AI-powered patient intake system with a mobile chatbot for check-in, backend API, and React dashboard for clinic staff.
 
 - [**Art Gallery Store**](https://github.com/tanvikreddy123/art-gallery-store)  
   MERN Stack · JWT Auth · CRUD  
