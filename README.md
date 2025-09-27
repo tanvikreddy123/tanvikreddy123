@@ -27,7 +27,11 @@
 
 - [**FinDash**](https://github.com/tanvikreddy123/personal-finance-dashboard)  
   React · Syncfusion · Tailwind CSS  
-  > Finance dashboard with charts, grids, and Context API for state mgmt.    
+  > Finance dashboard with charts, grids, and Context API for state mgmt.
+
+- [**Portfolio**](https://github.com/tanvikreddy123/portfolio)  
+  React.js · Vite · Tailwind CSS · Framer Motion  
+  > Responsive portfolio showcasing my projects, experience,  publications, certifications and skills.
 
 ---
 
@@ -63,6 +67,6 @@
 
 ## 📫 Connect  
 
-🌐 [Portfolio Website](https://portfolio-tau-pink-m1a3s80ioj.vercel.app/)    
+🌐 [Portfolio](https://portfolio-tau-pink-m1a3s80ioj.vercel.app/)    
 💼 [LinkedIn](https://www.linkedin.com/in/tanvikreddy/)  
 📧 [tanvikreddy123@gmail.com]  
