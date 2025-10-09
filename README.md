@@ -9,7 +9,7 @@
 
 ## 🚀 Projects  
 
-- [**Nutrimate FoodRx HealthBot**](https://github.com/tanvikreddy123/nutrimate-foodrx-healthbot) – *IEEE Published*  
+- [**MyFoodRx**](https://github.com/tanvikreddy123/MyFoodRx) – *IEEE Published*  
   Flutter · Node.js · MongoDB Atlas · Dialogflow CX  
   > AI-powered chatbot for chronic condition nutrition guidance.
 
