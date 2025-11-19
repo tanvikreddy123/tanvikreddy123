@@ -37,7 +37,7 @@
 
 ## 🛠️ Skills  
 
-**Languages:** Java, JavaScript (ES6+), Dart, SQL  
+**Languages:** Java, JavaScript (ES6+), TypeScript, Dart, SQL  
 **Frontend:** React.js, React Native, Flutter, HTML5, CSS3, Tailwind, Bootstrap  
 **Backend:** Spring Boot, Node.js, Express.js, REST APIs, GraphQL, Microservices  
 **Databases:** MySQL, PostgreSQL, MongoDB  
@@ -58,10 +58,13 @@
 
 ## 📖 Publication & Certifications  
 
-- IEEE SMARTCOMP 2025 – [MyFoodRx Paper](https://doi.org/10.1109/SMARTCOMP65954.2025.00080)  
-- Oracle Certified Professional: Java SE 17 Developer – Oracle  
+- IEEE SMARTCOMP 2025 – [MyFoodRx Paper](https://doi.org/10.1109/SMARTCOMP65954.2025.00080)
+- Oracle Cloud Infrastructure 2025 Generative AI Professional - Oracle 
+- Oracle Certified Professional: Java SE 17 Developer – Oracle
+- Oracle Cloud Infrastructure 2025 Developer Professional - Oracle
+- AI Fundamentals – IBM
 - Foundations of Databases for Developers – Oracle  
-- AI Fundamentals – IBM  
+  
 
 ---
 
